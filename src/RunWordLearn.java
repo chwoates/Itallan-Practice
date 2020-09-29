@@ -1,6 +1,8 @@
 import java.awt.*;
 
 public class RunWordLearn  {
+
+    int x = 0;
 	
 	private WordLists wordList = new WordLists("Internazionale200415");
 	NewWord blank = new NewWord("","","","","");
