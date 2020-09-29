@@ -4,7 +4,7 @@ public class RunWordLearn  {
 
     int x = 0;
 	
-	private WordLists wordList = new WordLists("Internazionale200415");
+	private WordLists wordList = new WordLists("Internazionale200416");
 	NewWord blank = new NewWord("","","","","");
 	volatile NewWord  displayWord = new NewWord("","","","","");
 	Object displayLock = new Object();
