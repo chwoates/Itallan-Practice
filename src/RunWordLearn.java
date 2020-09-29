@@ -4,6 +4,7 @@ public class RunWordLearn  {
 
     int x = 0;
     int y = 10;
+    int z = 500;
 	
 	private WordLists wordList = new WordLists("Internazionale200416");
 	NewWord blank = new NewWord("","","","","");
