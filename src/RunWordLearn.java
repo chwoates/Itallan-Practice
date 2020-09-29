@@ -3,6 +3,7 @@ import java.awt.*;
 public class RunWordLearn  {
 
     int x = 0;
+    int y = 10;
 	
 	private WordLists wordList = new WordLists("Internazionale200416");
 	NewWord blank = new NewWord("","","","","");
